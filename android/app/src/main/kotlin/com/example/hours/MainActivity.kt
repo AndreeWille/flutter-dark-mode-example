@@ -1,4 +1,4 @@
-package com.example.hours
+package com.example.dark
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
